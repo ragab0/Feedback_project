@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+form > * {
+  @apply p-3 rounded-2xl text-xl border-2
+}
